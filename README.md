@@ -17,7 +17,7 @@ para ver o resultado final do documento.
 
 Há diversas maneiras de editar um documento escrito em LaTeX. Cada sistema operacional possui as suas peculiaridades. Atualmente indico o site [Overleaf](https://www.overleaf.com/) para quem deseja editar arquivos neste formato. É uma ferramenta online com todos os recursos de uma distribuição LaTeX offline, poupando as dores de cabeça que uma instalação local sempre gera.
 
-Sendo curto e grosso, é como um Google Docs para LaTeX. Basta criar uma conta lá e começar a escrever.
+Sendo direto, o [Overleaf](https://www.overleaf.com/) é como um Google Docs para LaTeX. Basta criar uma conta lá e começar a escrever. Eu recomendo pela praticidade.
 
 
 ---
