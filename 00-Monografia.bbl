@@ -1,0 +1,25 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Genolini e Falissard 2009]{Genolini2009}
+\abntrefinfo{Genolini e Falissard}{GENOLINI; FALISSARD}{2009}
+{GENOLINI, C.; FALISSARD, B. {KmL: k-means for longitudinal data}.
+\emph{Computational Statistics}, v.~25, n.~2, p. 317--328, nov 2009.
+ISSN 0943-4062.
+Dispon{\'\i}vel em: \url{http://link.springer.com/10.1007/s00180-009-0178-4}.}
+
+\bibitem[Hilbe 2011]{Hilbe2011}
+\abntrefinfo{Hilbe}{HILBE}{2011}
+{HILBE, J.~M. \emph{Negative Binomial Regression}. New York: Cambridge
+  University Press, 2011.}
+
+\bibitem[McCullagh e Nelder 1989]{Nelder1989}
+\abntrefinfo{McCullagh e Nelder}{MCCULLAGH; NELDER}{1989}
+{MCCULLAGH, P.; NELDER, J.~A. \emph{Generalized Linear Models}. London: Chapman
+  \& Hall / CRC, 1989.}
+
+\end{thebibliography}
