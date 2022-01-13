@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: 00-Monografia.aux
 The style file: abntex2-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -15,51 +15,51 @@ Database file #1: abntex2-options.bib
 Database file #2: bibliografia.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 4 entries,
+You've used 3 entries,
             6714 wiz_defined-function locations,
-            1222 strings with 9759 characters,
-and the built_in function-call counts, 4184 in all, are:
-= -- 528
-> -- 80
-< -- 55
-+ -- 126
-- -- 25
-* -- 249
-:= -- 589
-add.period$ -- 11
-call.type$ -- 4
-change.case$ -- 30
-chr.to.int$ -- 7
-cite$ -- 3
-duplicate$ -- 281
-empty$ -- 223
-format.name$ -- 117
-if$ -- 914
+            1211 strings with 9548 characters,
+and the built_in function-call counts, 2306 in all, are:
+= -- 300
+> -- 47
+< -- 0
++ -- 63
+- -- 15
+* -- 127
+:= -- 368
+add.period$ -- 6
+call.type$ -- 3
+change.case$ -- 19
+chr.to.int$ -- 3
+cite$ -- 2
+duplicate$ -- 82
+empty$ -- 165
+format.name$ -- 70
+if$ -- 545
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 67
-newline$ -- 23
-num.names$ -- 15
-pop$ -- 104
+missing$ -- 49
+newline$ -- 16
+num.names$ -- 10
+pop$ -- 83
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 10
 quote$ -- 0
-skip$ -- 354
+skip$ -- 158
 stack$ -- 1
-substring$ -- 172
-swap$ -- 109
-text.length$ -- 4
+substring$ -- 83
+swap$ -- 30
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 23
+while$ -- 14
 width$ -- 0
-write$ -- 55
+write$ -- 36
