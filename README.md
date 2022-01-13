@@ -1,5 +1,7 @@
 # Monografia UFRN
 
+**Modelo atualizado em 13/01/2022**
+
 Esta é uma sugestão de modelo de monografia baseada nas normas da ABNT, baseada nos arquivos originais 
 
     abtex2-modelo-trabalho-academico.tex, v-1.9.6 laurocesar
